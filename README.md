@@ -16,4 +16,4 @@
 
 ## 🛠 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mysql,mongodb,postman,sass)
+![My Skills](https://skillicons.dev/icons?i=react,redux,ts,nodejs,express,mysql,mongodb,html,css,postman,sass,figma)
